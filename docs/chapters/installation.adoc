@@ -1,0 +1,18 @@
+
+== Anaconda
+
+1. Launch a browser and go to https://www.continuum.io/downloads[www.continuum.io/downloads]2. Get the installer that is right for your OS. The macOS and Windows versions of the installer has GUI options, some of you may want to get that. The Linux version is a command line install 
+
+
+
+== Jupyter
+
+
+
+== Installing on Vagrant
+
+Why
+- you want to try Python3
+- You don't want to mess up your stable setup
+
+

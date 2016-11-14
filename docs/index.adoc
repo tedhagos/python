@@ -1,0 +1,11 @@
+:doctype: book
+:Author Initials: tgh
+
+
+= Python notes
+Ted Hagos <ted@thelogbox.com>
+
+
+include::chapters/installation.adoc[]
+
+
